@@ -8,6 +8,8 @@ function App() {
 
   return (
     <div className='d-flex '>
+
+ This is App Component
       <Sidepanel />
       <Routes>
         <Route path="/patient-detail" element={<PatientDetailPage />} />
