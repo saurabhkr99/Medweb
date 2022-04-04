@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/saurabhkr99/Medweb/static/css/main.b9b4b890.css",
+    "main.js": "/saurabhkr99/Medweb/static/js/main.4aa14108.js",
+    "index.html": "/saurabhkr99/Medweb/index.html",
+    "main.b9b4b890.css.map": "/saurabhkr99/Medweb/static/css/main.b9b4b890.css.map",
+    "main.4aa14108.js.map": "/saurabhkr99/Medweb/static/js/main.4aa14108.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9b4b890.css",
+    "static/js/main.4aa14108.js"
+  ]
+}
