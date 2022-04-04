@@ -5,8 +5,8 @@ import PatientDetailPage from './pages/PatientDetailPage';
 
 
 function App() {
-  const [data, setData] = useState([])
-  const [file, setFile] = useState([])
+  // const [data, setData] = useState([])
+  // const [file, setFile] = useState([])
 
   // useEffect(() => {
   //   axios.get("https://619f39821ac52a0017ba467e.mockapi.io/patientDetails")
